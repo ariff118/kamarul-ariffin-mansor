@@ -74,4 +74,4 @@ highlight_name: false
 
 Kamarul Ariffin graduated from the University of Kentucky with a BSc in Mathematics in 1992. In 2010 I began working toward my MSc in Decision Sciences as a part-time student at Universiti Utara Malaysia, under the School of Quantitative Sciences, College of Art and Sciences (CAS), where I did my partial thesis paper in Structural Eqauation Modeling (SEM) under the advisement of Assoc. Prof. Dr. Zahayu Md Yusof. I graduated from UUM at the end of 2012.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_kamansor.pdf" "newtab" >}}resumé{{< /staticref >}}.
