@@ -100,8 +100,7 @@ address = {street = "A2-1020 Academic Building 2", city = "Merbok", region = "Ke
 coordinates = {latitude = "5.7138", longitude = "100.4505"}
 
 # Directions for visitors to locate you.
-directions = "Enter Main Gate and the second left, the the second right, and finally the second right. Academic Building 2 is on your right and my office is at the 
-Ground Floor Room A2-1020"
+directions = "Enter Main Gate and the second left, the the second right, and finally the second right. Academic Building 2 is on your right and my office is at the Ground Floor Room A2-1020"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
