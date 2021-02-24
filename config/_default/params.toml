@@ -93,14 +93,14 @@ phone = "+60 12 433 6901"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "A2-1020 Academic Building 2", city = "Merbok", region = "Kedah", postcode = "08400", country = "Malaysia", country_code = "MY"}
+address = {street = "A2-1020 Academic Building 2", postcode = "08400", city = "Merbok", region = "Kedah", country = "Malaysia", country_code = "MY"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "5.7138", longitude = "100.4505"}
 
 # Directions for visitors to locate you.
-directions = "Enter Main Gate and the second left, the the second right, and finally the second right. Academic Building 2 is on your right and my office is at the Ground Floor Room A2-1020"
+directions = "Enter the Main Gate and take the second left, then take the second right, and finally take the second right again. Academic Building 2 is on your right and my office is at the Ground Floor Room A2-1020"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -112,7 +112,7 @@ appointment_url = "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ariff118"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ariff0230"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
