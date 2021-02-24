@@ -6,7 +6,7 @@ title: Kamarul Ariffin Mansor
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Mathematics and Statistics
+role: Senior Lecturer of Mathematics and Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -47,7 +47,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ariff118
+  link: https://twitter.com/ariff0230
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=9-Sesz4AAAAJ&hl=en&gmla=AJsN-F7tlYbfOVlEMWLd9f_ekFUnYIR52g_dY1MMVlpdoN237MhyyBeyJELIbRfHoq4ODpJv7DqRt_6MnnvkM75iPHiOP9iydyu0joVJwWdPp60OzgSg0We-QXYP4jeEXDMbjvY9w6pN
@@ -72,6 +72,6 @@ email: "ariff118@uitm.edu.my"
 highlight_name: false
 ---
 
-Kamarul Ariffin graduated from the University of Kentucky with a BSc in Mathematics in 1992. In 2010 I began working toward my MSc in Decision Sciences as a part-time student at Universiti Utara Malaysia, under the School of Quantitative Sciences, College of Art and Sciences (CAS), where I did my partial thesis paper in Structural Eqauation Modeling (SEM) under the advisement of Assoc. Prof. Dr. Zahayu Md Yusof. I graduated from UUM at the end of 2012.
+Kamarul Ariffin graduated from the University of Kentucky with a BSc in Mathematics with Economics in 1992. In 2010 he began working toward his MSc in Decision Sciences as a part-time student at Universiti Utara Malaysia, under the School of Quantitative Sciences, College of Art and Sciences (CAS), where he did his partial thesis paper in Structural Eqauation Modeling (SEM) under the advisement of Assoc. Prof. Dr. Zahayu Md Yusof. He graduated from UUM at the end of 2012.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_kamansor.pdf" "newtab" >}}resumé{{< /staticref >}}.
