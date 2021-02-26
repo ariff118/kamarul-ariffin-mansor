@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/3b2c609930abbdecca981849dad86cb464481245
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2019-12-31"
+  description: "Learn the language of data, study types, sampling strategies, and experimental design."
+  organization: DataCamp
+  organization_url: https://www.datacamp.org
+  title: Introduction to Data in R
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
