@@ -31,20 +31,28 @@ item:
   organization_url: https://www.datacamp.org
   title: Introduction to Data in R
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/9c0651e3c8a5000c7e0d581d455e6f166f375afb
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
+  date_start: "2018-08-07"
+  description: Learn to explore your data so you can properly clean and prepare it for analysis.
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  title: Cleaning Data in R
+  url: https://www.datacamp.com/statement-of-accomplishment/course/9c0651e3c8a5000c7e0d581d455e6f166f375afb
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/c99cf4aa673ef37fa6de0181518f9be0fbb52c80
+  date_end: ""
+  date_start: "2018-08-06"
+  description: "In this course, you will learn to read CSV, XLS, and text files in R using tools like readxl and ..."
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Introduction to Importing Data in R
+  url: ""
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/64c51d4f2ee1aa293ba99e23da12dcc86c3373f2
+  date_end: ""
+  date_start: "2018-08-13"
+  description: "Learn to create interactive analyses and automated reports with R Markdown."
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Reporting with R Markdown
   url: ""
 ---
